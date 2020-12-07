@@ -1,5 +1,5 @@
 package com.htlwienwest;
 
-public interface Gretter {
+public interface Greeter {
     void greet();
 }

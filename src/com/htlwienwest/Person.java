@@ -1,6 +1,6 @@
 package com.htlwienwest;
 
-public class Person implements Gretter {
+public class Person implements Greeter {
     private String firstName;
     private String lastName;
 
